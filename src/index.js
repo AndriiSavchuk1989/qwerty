@@ -8,7 +8,6 @@ class User extends React.Component {
     super(props);
     this.state = { user: {} };
     this.showMyId = this.showMyId.bind(this);
-    console.log("user____!!!!", this.state.user);
   }
 
   showMyId(event) {
