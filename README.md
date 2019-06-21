@@ -1,2 +1,0 @@
-# qwerty
-Created with CodeSandbox
